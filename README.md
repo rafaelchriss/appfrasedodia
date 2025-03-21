@@ -41,10 +41,10 @@ Este projeto faz parte do meu aprendizado no curso de mobile do professor **Jami
 ---
 
 ## **Imagem do App**
-![app2-frasesdodia](https://github.com/user-attachments/assets/646507ad-a02b-47b8-b9d7-3a4316203f03)
 
-
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/646507ad-a02b-47b8-b9d7-3a4316203f03" alt="app2-frasesdodia">
+</div>
 
 ---
 
