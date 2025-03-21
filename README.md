@@ -1,7 +1,3 @@
-Segue o texto formatado como você enviou, pronto para ser usado no README do GitHub:
-
----
-
 # **Seu App - Gerador de Frases Motivadoras 🚀**
 
 Bem-vindo ao **Seu App**, um aplicativo simples que gera frases motivadoras aleatórias para inspirar o seu dia e também exibe uma lista com todas as frases disponíveis.  
