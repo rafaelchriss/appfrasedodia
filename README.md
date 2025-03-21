@@ -49,7 +49,3 @@ Este projeto faz parte do meu aprendizado no curso de mobile do professor **Jami
 ---
 
 Este aplicativo foi projetado para fornecer frases motivadoras que podem inspirar e elevar seu ânimo a cada dia. Aproveite a experiência! 🚀✨
-
----
-
-Caso precise de mais ajustes ou algo adicional, é só me chamar! 😊
