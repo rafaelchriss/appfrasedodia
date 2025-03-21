@@ -1,13 +1,22 @@
-Seu App - Gerador de Frases Motivadoras 🚀
+Segue o texto formatado como você enviou, pronto para ser usado no README do GitHub:
 
-Bem-vindo ao Seu App, um aplicativo simples que gera frases aleatórias motivadoras para inspirar o seu dia. <br>Este projeto faz parte do meu aprendizado no curso de mobile do professor Jamilton Damasceno.
+---
 
-Recursos Principais
+# **Seu App - Gerador de Frases Motivadoras 🚀**
 
-📜 Geração de Frases Aleatórias: Toque no botão e obtenha uma frase inspiradora para o seu dia. <br>
+Bem-vindo ao **Seu App**, um aplicativo simples que gera frases motivadoras aleatórias para inspirar o seu dia e também exibe uma lista com todas as frases disponíveis.  
+Este projeto faz parte do meu aprendizado no curso de mobile do professor **Jamilton Damasceno**.
 
+---
 
-## Como Usar
+## **Recursos Principais**
+
+📜 **Geração de Frases Aleatórias**: Toque no botão e obtenha uma frase inspiradora para o seu dia.  
+📚 **Exibição de Todas as Frases**: Veja uma lista completa com todas as frases motivadoras.
+
+---
+
+## **Como Usar**
 
 1. Abra o Android Studio.
 
@@ -23,23 +32,28 @@ Recursos Principais
 
 6. Execute o aplicativo no emulador ou dispositivo físico.
 
-7. Toque no botão para gerar frases aleatória.
+7. Explore o aplicativo:
+   - Toque no botão para gerar frases aleatórias.  
+   - Veja a lista completa de frases motivadoras disponíveis.
 
-   - Agora você pode explorar o aplicativo e testar suas funcionalidades! 🚀✨
+---
 
-Tecnologias Utilizadas
+## **Tecnologias Utilizadas**
 
-📱 Mobile: Desenvolvido em Java.<br>
-<br>
+📱 **Mobile**: Desenvolvido em **Java**.
+
+---
+
+## **Imagem do App**
+![app2-frasesdodia](https://github.com/user-attachments/assets/646507ad-a02b-47b8-b9d7-3a4316203f03)
+
+
+
+
+---
+
 Este aplicativo foi projetado para fornecer frases motivadoras que podem inspirar e elevar seu ânimo a cada dia. Aproveite a experiência! 🚀✨
-<div align="center">
-![app2-frasesdodia](https://github.com/user-attachments/assets/5e5f0e45-a535-4796-893d-0f91c86733eb)
-</div>
 
+---
 
-
-
-
-
-
-
+Caso precise de mais ajustes ou algo adicional, é só me chamar! 😊
