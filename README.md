@@ -33,8 +33,7 @@ Tecnologias Utilizadas
 <br>
 Este aplicativo foi projetado para fornecer frases motivadoras que podem inspirar e elevar seu ânimo a cada dia. Aproveite a experiência! 🚀✨
 <div align="center">
-    <img src="=![Imagem do WhatsApp de 2025-03-21 à(s) 14 15 29_edf82a2f](https://github.com/user-attachments/assets/a463d01a-3483-4eab-8145-4bc81dff458f)
-" alt="Imagem do app motivacional" style="width:50%;">
+    <img src="![app2-frasesdodia](https://github.com/user-attachments/assets/48953ce2-e881-4320-ae8d-7cdf3de73ac7)" alt="Imagem do app motivacional" style="width:50%;">
 </div>
 
 
